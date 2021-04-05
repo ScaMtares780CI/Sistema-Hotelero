@@ -1,0 +1,1 @@
+echo ingresa el texto > nombreDelArchivo.extension
